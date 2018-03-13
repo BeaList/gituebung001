@@ -12,3 +12,4 @@ VfB
 FC Sandhausen
 Werder Bremen
 KSC
+HSC
