@@ -6,5 +6,6 @@ BVB
 Freiburg
 Hamburger SV
 1 FC Köln
+VfB
 FC Sandhausen
 Werder Bremen
