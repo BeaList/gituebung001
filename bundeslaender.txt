@@ -1,9 +1,16 @@
-<<<<<<< HEAD
+Baden-Wuerttemberg
+Bayern
+Berlin 
+Brandenburg
+Bremen 
+Hamburg 
+Hessen
+Mecklenburg-Vorpommern
+Niedersachsen
+Nordrhein-Westfalen
 Rheinland-Pfalz
-Thüringen
-=======
-Berlin
-Hamburg
-baden wÃ¼rttemberg
-Hamburg
->>>>>>> master
+Saarland
+Sachsen
+Sachsen-Anhalt
+Schleswig-Holstein
+Thueringen
