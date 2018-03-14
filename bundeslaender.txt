@@ -1,4 +1,4 @@
-Baden-Württemberg
+Baden-Wï¿½rttemberg
 Bayern
 Berlin 
 Brandenburg
@@ -13,4 +13,8 @@ Saarland
 Sachsen
 Sachsen-Anhalt
 Schleswig-Holstein
-Thüringen
+Thï¿½ringen
+Berlin
+Hamburg
+Baden-Wuerttemberg
+Thueringen
