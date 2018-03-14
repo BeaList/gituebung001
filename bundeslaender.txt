@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Rheinland-Pfalz
 Thüringen
+=======
+Berlin
+Hamburg
+baden wÃ¼rttemberg
+Hamburg
+>>>>>>> master
